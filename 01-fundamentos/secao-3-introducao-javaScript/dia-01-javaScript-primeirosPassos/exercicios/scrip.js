@@ -279,3 +279,4 @@
 //   aliquotIR = (baseSalary * 0.275) - 869.36;
 // };
 // console.log("Salário: " + (baseSalary - aliquotIR));
+
